@@ -25,6 +25,9 @@ Like most other lending companies, lending loans to ‘risky’ applicants is th
 - Seaborn 0.12.1
 - Plotly 5.11.0
 
+References:
+born.pydata.org/generated/seaborn.barplot.html
+https://community.plotly.com/t/countplot-with-plotly-express/45781/4
 
 ## Contact
 Created by [@tanya-hash] - feel free to contact me!
